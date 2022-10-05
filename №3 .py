@@ -52,5 +52,5 @@ elif s < 4:
 else:
     final_grade = 4
 
-print(final_grade)
+print(f'Сложность оценки:{final_grade}')
 
